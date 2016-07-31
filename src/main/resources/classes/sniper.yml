@@ -4,7 +4,7 @@ armor:
   boots: IRON_BOOTS, 1, prot:1
 tools:
   '1': GOLD_HOE, 1
-  '2': CLAY_BALL, 1
+  '2': CLAY_BALL, 64
   '3': SLIME_BALL, 3
   '4': GOLDEN_APPLE, 2
   '5': IRON_SWORD, 1, sharp:2
